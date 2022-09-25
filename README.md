@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi. This is where I'll be sharing my work as I begin my learning journey. 
 
 <!--
 **keirastanley/keirastanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
