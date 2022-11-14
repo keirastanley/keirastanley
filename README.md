@@ -9,7 +9,7 @@ I gave <a href="https://cs50.harvard.edu/x/2021/">CS50</a> a go on a whim in ear
 
 After continuing for a few months in my spare time to be sure my enjoyment wasn't a fluke I decided to take a career change seriously, which led to me finding School of Code where I'll be studying full-stack development until February 2023.
 
-So far I've learned how to use JavaScript, Node.js, Express and SQL for backend, HTML, CSS and DOM manipulation for front-end, Jest and Cypress for testing as well as tools such as Figma and Miro for planning and design. 
+So far I've learned how to use JavaScript, Node.js, Express and SQL for backend, HTML, CSS and React for front-end, Jest and Cypress for testing as well as tools such as Figma and Miro for planning and design. 
 
 <div id="badges">
   <a href="https://www.codewars.com/users/keirastanley">
