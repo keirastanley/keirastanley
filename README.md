@@ -1,4 +1,7 @@
+<a href="https://www.linkedin.com/in/keirastanley/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://www.codewars.com/users/keirastanley"><img src="https://www.codewars.com/users/keirastanley/badges/small?theme=light" alt="Codewars Badge"/></a>
+
 ### ✨ Keira Stanley
+
 _Full-stack development student @ <a href="https://www.linkedin.com/school/school-of-code/">School of Code</a>_
 
 👋 Hi, I'm Keira.
@@ -30,15 +33,6 @@ https://user-images.githubusercontent.com/93473519/202533645-a691fb5d-b6a3-47a4-
 1. Static webpage made with React with only basic functionality (e.g. dropdown nav, buttons change colour on click). All data stored in arrays.
 2. All user-generated data (e.g. things to do, goals) stored locally in JSON files. Poetry and art from free APIs.
 3. All user-generated data moved to databases to allow for persistent changes to content.-->
-
-<div id="badges">
-  <a href="https://www.codewars.com/users/keirastanley">
-    <img src="https://www.codewars.com/users/keirastanley/badges/small?theme=light" alt="Codewars Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/keirastanley/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/
-  </a>
-</div>
 
 <!--
 **keirastanley/keirastanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
