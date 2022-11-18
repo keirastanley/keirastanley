@@ -19,7 +19,7 @@ The homepage for a personal dashboard (<a href="https://github.com/keirastanley/
   
  #### _Prototype / Component tree_
   
-  <img src="https://github.com/keirastanley/personal-dashboard/raw/main/Prototypes/Desktop%20homepage%20prototype.png?raw=true" width="425px"/>
+  <img src="https://github.com/keirastanley/personal-dashboard/blob/main/Prototypes%20and%20screengrabs/Desktop%20homepage%20prototype.png?raw=true" width="425px"/>
   <img src="https://github.com/keirastanley/personal-dashboard/raw/main/Plan/Component%20tree.png?raw=true" width="336px"/>
 </div>
 
