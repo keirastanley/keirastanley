@@ -23,12 +23,12 @@ The homepage for a personal dashboard (<a href="https://github.com/keirastanley/
   <img src="https://github.com/keirastanley/personal-dashboard/raw/main/Plan/Component%20tree.png?raw=true" width="336px"/>
 </div>
 
- #### _Real frontend:
- ##### Nov 17 2022_
+ #### Real frontend:
+ ##### _Nov 17 2022_
 
 https://user-images.githubusercontent.com/93473519/202533645-a691fb5d-b6a3-47a4-a56d-4aca3d84f10f.mov
 
- ##### Nov 20 2022_
+ ##### _Nov 20 2022_
 
 https://user-images.githubusercontent.com/93473519/202906960-9b349ead-d2cd-4a5d-b3e0-69996606b903.mp4
 
