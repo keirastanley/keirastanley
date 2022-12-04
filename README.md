@@ -6,11 +6,11 @@ _Full-stack development student @ <a href="https://www.linkedin.com/school/schoo
 
 👋 Hi, I'm Keira.
 
-The journey that led me to coding began with learning to play the piano and read sheet music as a child, learning Spanish and the fundamentals of translation at university, discovering a love of chess in my early 20s and piecing together the common threads that run through all these interests: pattern recognition, analytical thinking and problem-solving.
+<!-- The journey that led me to coding began with learning to play the piano and read sheet music as a child, learning Spanish and the fundamentals of translation at university, discovering a love of chess in my early 20s and piecing together the common threads that run through all these interests: pattern recognition, analytical thinking and problem-solving.
 
 I gave <a href="https://cs50.harvard.edu/x/2021/">CS50</a> a go in early 2022. After continuing for a few months in my spare time to be sure my enjoyment wasn't a fluke I decided to take a career change seriously, which led to me finding School of Code where I'll be studying full-stack development until February 2023.
 
-So far I've learned how to use JavaScript, Node.js, Express and SQL for backend, HTML, CSS and React for front-end, Jest and Cypress for testing as well as tools such as Figma and Miro for planning and design. 
+So far I've learned how to use JavaScript, Node.js, Express and SQL for backend, HTML, CSS and React for front-end, Jest and Cypress for testing as well as tools such as Figma and Miro for planning and design. -->
 
 ✍️ I’m currently working on...
 
