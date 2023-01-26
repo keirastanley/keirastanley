@@ -2,11 +2,10 @@
 
 ## ✨ Keira Stanley
 
-Hi, I'm Keira. I'm a junior software developer with a solid understanding of JavaScript, React, HTML, CSS, Node.js, and Express. 
+Hi, I'm Keira. I'm a graduate of languages and translation who gave coding a go one day and discovered a love for it. I have a solid understanding of JavaScript, React, HTML, CSS, Node.js, and Express and am also eager to learn more.  
 
-Before getting into coding I studied languages and translation and worked as a language teacher in Spain for 4 years. 
+Before getting into coding I studied languages and translation and worked as a language teacher in Spain for 4 years. As well as building coding projects in my spare time, I also love to make music and art.
 
-In my free time I make music and art.
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://keirastanley.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keirastanley)
