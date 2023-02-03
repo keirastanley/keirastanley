@@ -2,6 +2,9 @@
 
 ## ✨ Keira Stanley
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Hi, I'm Keira. I'm a graduate of languages and translation who gave coding a go one day and discovered a love for it. I have a solid understanding of JavaScript, React, HTML, CSS, Node.js, and Express and am also eager to learn more.  
 
 Before getting into coding I worked as a language teacher in Spain for 4 years. As well as building coding projects in my spare time, I also love to make music and art.
