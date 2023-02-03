@@ -22,7 +22,7 @@ Before getting into coding I worked as a language teacher in Spain for 4 years. 
 
 [Cheers - bar finder app](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code)
 
-[Cyber-mix - digital mixtape maker](https://github.com/gregrutnam/playlistapp)
+[Cyber-mix - digital mixtape maker](https://github.com/keirastanley/cybermix)
 
 ### Recent activity
 <!--START_SECTION:activity-->
