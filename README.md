@@ -24,6 +24,10 @@ Before getting into coding I worked as a language teacher in Spain for 4 years. 
 
 [Cyber-mix - digital mixtape maker](https://github.com/keirastanley/cybermix)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keirastanley&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=keirastanley&theme=buefy&?count_private=true&show_icons=true&&custom_title=My%20Stats&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Recent activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#127](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code/pull/127) in [SchoolOfCode/bc13_final-project_front-end-beast-code](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code)
