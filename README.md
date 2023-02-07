@@ -28,11 +28,11 @@ Before getting into coding I worked as a language teacher in Spain for 4 years. 
 
 <!-- [![Keira's GitHub stats](https://github-readme-stats.vercel.app/api?username=keirastanley&theme=buefy&?count_private=true&show_icons=true&&custom_title=My%20Stats&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ### Recent activity
+<!-- ### Recent activity-->
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#127](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code/pull/127) in [SchoolOfCode/bc13_final-project_front-end-beast-code](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code)
 2. 💪 Opened PR [#124](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code/pull/124) in [SchoolOfCode/bc13_final-project_front-end-beast-code](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code)
 3. 💪 Opened PR [#117](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code/pull/117) in [SchoolOfCode/bc13_final-project_front-end-beast-code](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code)
 4. 🎉 Merged PR [#113](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code/pull/113) in [SchoolOfCode/bc13_final-project_front-end-beast-code](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code)
 5. 💪 Opened PR [#108](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code/pull/108) in [SchoolOfCode/bc13_final-project_front-end-beast-code](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code)
-<!--END_SECTION:activity--> -->
+<!--END_SECTION:activity--> 
