@@ -14,11 +14,11 @@ Hi, I'm Keira.
 
 [My portfolio](https://github.com/keirastanley/portfolio)
 
-[Personal dashboard](https://github.com/keirastanley/personal-dashboard)
-
 [Cheers - bar finder app](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code)
 
 [Cyber-Mix - digital mixtape maker](https://github.com/keirastanley/cybermix)
+
+[Personal dashboard](https://github.com/keirastanley/personal-dashboard)
 
 <!-- ⭒☆ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ☆⭒ -->
 
