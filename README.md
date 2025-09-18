@@ -4,7 +4,7 @@
 
  Hi, I'm Keira. 
 
-♡ I'm full-stack software engineer, working professionally with TypeScript, React and AWS
+♡ I'm full-stack software engineer, working professionally with TypeScript, React and AWS (we use [GitLab](https://about.gitlab.com/))
 
 ♡ In my free time, I build fun projects that allow me to learn new skills, e.g.
   * A [personal dashboard](https://github.com/keirastanley/personal-dashboard) to track my tasks, goals and other things I care about
