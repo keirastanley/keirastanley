@@ -2,11 +2,19 @@
 
 <!--<a href="https://www.codewars.com/users/keirastanley"><img src="https://www.codewars.com/users/keirastanley/badges/small?theme=light" alt="Codewars Badge"/></a>-->
 
-<!-- Hi, I'm Keira. 
+ Hi, I'm Keira. 
 
-♡ I'm currently working on a digital mixtape-making app called [Cyber-Mix](https://github.com/keirastanley/cybermix) using Spotify's Web Api.
+♡ I'm full-stack software engineer, working professionally with TypeScript, React and AWS
 
-♡ When I'm not building coding projects, I also love to make music and art. -->
+♡ In my free time, I build fun projects that allow me to learn new skills, e.g.
+  * A [personal dashboard](https://github.com/keirastanley/personal-dashboard) to track my tasks, goals and other things I care about
+  * An [app using Spotify's web API](https://github.com/keirastanley/cybermix) to create digital mixtapes
+
+♡ Currently studying [C](https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux) and [Java](https://java-programming.mooc.fi/) to learn more about computing fundamentals and object-oriented programming
+
+♡ Working towards an AWS Cloud Practitioner certification 
+
+♡ When I'm not building coding projects, I also love making art and music
 
 <!-- ⭒☆ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ☆⭒ -->
 
