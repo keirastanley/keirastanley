@@ -7,8 +7,9 @@
 ♡ I'm full-stack software engineer, working professionally with TypeScript, React and AWS (we use [GitLab](https://about.gitlab.com/))
 
 ♡ In my free time, I build fun projects that allow me to learn new skills, e.g.
+  * [kellaspace](https://github.com/keirastanley/kellaspace_frontend) - A place for my friend and I to stay connected by sharing things to watch, listen to and more
   * A [personal dashboard](https://github.com/keirastanley/personal-dashboard) to track my tasks, goals and other things I care about
-  * An [app using Spotify's web API](https://github.com/keirastanley/cybermix) to create digital mixtapes
+  * [cybermix](https://github.com/keirastanley/cybermix) An app using Spotify's web API to create digital mixtapes
 
 ♡ Currently studying [C](https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux) and [Java](https://java-programming.mooc.fi/) to learn more about computing fundamentals and object-oriented programming
 
